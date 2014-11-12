@@ -2557,7 +2557,7 @@ a {
   color: #bba700;
 }
 
-.amber {
+.amber, #joinbutton{
   background-color: #ffc107;
 }
 .amber.lighten-1 {
